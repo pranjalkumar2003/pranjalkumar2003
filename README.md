@@ -39,6 +39,10 @@ Hi there! 👋 I'm Pranjal Kumar Singh, a software engineer passionate about web
 
 ![DaisyUI](https://img.shields.io/badge/DaisyUI-FF69B4?style=for-the-badge&logo=daisyui&logoColor=white)
 
+### Authentication
+
+![Google OAuth](https://img.shields.io/badge/Google%20OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 
 ### Databases
 
