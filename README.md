@@ -9,9 +9,9 @@ Hi there! 👋 I'm Pranjal Kumar Singh, a software engineer passionate about web
 
 ## 📫 How to reach me
 
-- Email us at:[Pranjalkumarsingh4@gmail.com](mailto:Pranjalkumarsingh4@gmail.com) 
-- Twitter handle:[Twitter](https://twitter.com/PranjalKatharia)
-- LinkedIn profile:[LinkedIn](https://www.linkedin.com/in/pranjal-kumar-singh-92aa131bb/)
+- Email us at: [Pranjalkumarsingh4@gmail.com](mailto:Pranjalkumarsingh4@gmail.com) 
+- [Twitter](https://twitter.com/PranjalKatharia)
+- [LinkedIn](https://www.linkedin.com/in/pranjal-kumar-singh-92aa131bb/)
 
 ## 🚀 Skills
 
